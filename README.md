@@ -64,4 +64,4 @@ report            # Final write-up materials
 
 ## Status
 
-🚧 Work in progress — currently in early data acquisition and setup phase.
+🚧 Work in progress — data acquisition (Phase 1) complete; entering data cleaning (Phase 2).
