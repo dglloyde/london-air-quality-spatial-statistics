@@ -34,6 +34,8 @@ London was chosen over Manchester after considering both. Greater Manchester's p
 - Difference-in-differences and interrupted time series analysis
 - Non-parametric hypothesis testing (Mann-Whitney U)
 
+  The causal analysis compares stations inside vs. outside the final (August 2023) ULEZ boundary. A more granular three-group design (distinguishing areas newly added in 2023 from those already inside since 2021) was considered but not pursued, since no official machine-readable boundary exists for the intermediate October 2021 North/South Circular expansion; borough-boundary proxies were evaluated and found to disagree substantially with the true boundary.
+
 ## Repository Structure
 
 data/raw          # Original, unmodified downloaded data
